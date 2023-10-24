@@ -50,8 +50,3 @@ async fn stop_log(State(input): State<Arc<App>>) -> Html<&'static str> {
     *should_log = false;
     Html("<h1>Stopped log</h1>")
 }
-
-
-// struct App {
-
-// }
