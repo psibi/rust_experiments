@@ -2,4 +2,5 @@
 
 members = [
     "failing_server",
+    "chrono_playground",
 ]
