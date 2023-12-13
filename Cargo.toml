@@ -3,5 +3,6 @@
 members = [
     "failing_server",
     "chrono_playground",
-    "backon_exp"
+    "backon_exp",
+    "hash_map"
 ]
